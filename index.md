@@ -1,3 +1,3 @@
 # Welcome
 
-![Logo](/images/Logo_400.png "Logo")
+<img src="/images/Logo_400.png" alt="Logo" align="middle">

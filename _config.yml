@@ -4,9 +4,5 @@ name: Car4Tegra
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Open Source Fully Autonomous Model Car 
 
-# Use rdiscount as the markdown engine because it generates html5 compliant code for stuff like footnotes
-# If you use maroku (default engine) some of your generated pages may not validate or lint as html5
-# If you don't have it install it via gem install rdiscount
-markdown: rdiscount
 
 theme: jekyll-theme-midnight

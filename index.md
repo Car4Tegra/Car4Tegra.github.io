@@ -1,3 +1,3 @@
-# Hello World
+# Welcome
 
-I'm hosted with GitHub Pages 2.
+![Logo](/images/Logo_400.png "Logo")
